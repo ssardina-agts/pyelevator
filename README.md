@@ -1,6 +1,6 @@
 # Elevator Simulator
 
-## REPO ARCHIVED !!! - Refer to new simulator [HERE]([ssardina-agts/pyelevator](https://github.com/COSC1127-AI/elevator-simulator))
+## REPO ARCHIVED !!! - Refer to new simulator at [ssardina-agts/pyelevator](https://github.com/COSC1127-AI/elevator-simulator)
 
 This is a multi-elevator simulator in Python. Simulation is done through [simpy](https://simpy.readthedocs.io/en/latest) library (v4.0.1), whereas the graphical animation is realized using [pygame](https://www.pygame.org/docs/) library (v2.1.2).
 
